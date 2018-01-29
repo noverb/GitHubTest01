@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">GitHubTest01</string>
-    <string name="intro_text">You are in!!</string>
+    <string name="intro_text">Added Retrofit libraries!!</string>
 </resources>
