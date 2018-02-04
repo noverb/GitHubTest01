@@ -3,4 +3,5 @@
     <string name="intro_text">Added Retrofit libraries!!</string>
     <string name="hint_search_string">Enter Search Text</string>
     <string name="button_search">Check Search Count</string>
+    <string name="start_the_other_activity">Start the other activity</string>
 </resources>
